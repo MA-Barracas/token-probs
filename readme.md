@@ -10,7 +10,7 @@ It uses OpenAI's powerful language models to figure out how likely each word (or
 **Features:**
 
 * **Token Probability Visualization:** See which words matter most! Color intensity shows how likely each token is.
-* **Most Likely Token Score:** See scores for the top-k most probable tokens.
+* **Most Likely Token Score:** See scores for the top-k most probable tokens 📊.
 * **Customizable System Prompt:** Guide the analysis with your own prompts 💡.
 * **OpenAI Integration:**  Tap into the power of GPT-3.5-turbo and GPT-4 🚀.
 * **Adjustable Parameters:** Tweak  temperature, maximum tokens, and seed for  fine-tuned results.
@@ -51,7 +51,6 @@ It uses OpenAI's powerful language models to figure out how likely each word (or
 2. **(Optional) Add a custom system prompt to focus the analysis.** 🤔
 3. **Play around with the parameters!**  (temperature, max tokens, seed) 
 4. **See your text light up with color-coded tokens!** 🤩
-5. **Hover over the colormap for a closer look at probabilities.** 📊
 
 **Project Structure**
 
