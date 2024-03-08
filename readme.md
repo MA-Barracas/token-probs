@@ -1,6 +1,4 @@
-Absolutely! Here's a revamped README file with emojis and a bit of visual flair to make it more engaging:
-
-**Title: ToKEn viSuAl 👁️✨**
+# ToKEn viSuAl 👁️✨
 
 **Brief Description:**
 
@@ -61,6 +59,3 @@ ToKEn viSuAl is a Python-powered app that analyzes your text and adds a splash o
 
 This is an adapted version of the viztoken project from HoloViz https://holoviz-dev.github.io/blog-dev/posts/openai_logprobs_colored/! 🙌 
 
-
-
-**I hope you like this version! Let me know if you want even more emojis or other changes** 😊 
