@@ -112,7 +112,7 @@ colors = tmap.to_model("hex")
 aclient = AsyncOpenAI()
 api_key_input = pn.widgets.PasswordInput(
     name="OpenAi API Key",
-    placeholder="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",
+    placeholder="sk-...",
     width=150,
 )
 system_input = pn.widgets.TextAreaInput(
