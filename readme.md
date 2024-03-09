@@ -7,6 +7,10 @@ ToKEn viSuAl is a Python-powered app that analyzes your text with two visual fea
 - It shows a list of the top-k most probable tokens.
 It uses OpenAI's powerful language models to figure out how likely each word (or part of a word) is to appear. 
 
+
+![image](img/tok.jpg)
+
+
 **Features:**
 
 * **Token Probability Visualization:** See which words matter most! Color intensity shows how likely each token is.
