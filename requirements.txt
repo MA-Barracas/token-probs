@@ -2,3 +2,4 @@ numpy
 panel
 tastymap
 openai
+python-dotenv
